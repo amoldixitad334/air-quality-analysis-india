@@ -45,3 +45,5 @@ Dataset: https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 ## Author
 
 BCA Data Science Student
+GLA University
+Amol Dixit
